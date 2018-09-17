@@ -1,0 +1,850 @@
+[
+    {
+        "country": "http://www.wikidata.org/entity/Q219060",
+        "countryLabel": "State of Palestine"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q244165",
+        "countryLabel": "Artsakh"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q407199",
+        "countryLabel": "Palestinian territories"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q907112",
+        "countryLabel": "Pridnestrovian Moldavian Republic"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16746854",
+        "countryLabel": "Luhansk People's Republic"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q258",
+        "countryLabel": "South Africa"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q265",
+        "countryLabel": "Uzbekistan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q262",
+        "countryLabel": "Algeria"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q398",
+        "countryLabel": "Bahrain"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q399",
+        "countryLabel": "Armenia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q298",
+        "countryLabel": "Chile"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q403",
+        "countryLabel": "Serbia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q408",
+        "countryLabel": "Australia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q334",
+        "countryLabel": "Singapore"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q347",
+        "countryLabel": "Liechtenstein"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q419",
+        "countryLabel": "Peru"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q414",
+        "countryLabel": "Argentina"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q657",
+        "countryLabel": "Chad"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q424",
+        "countryLabel": "Cambodia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q664",
+        "countryLabel": "New Zealand"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q423",
+        "countryLabel": "North Korea"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q574",
+        "countryLabel": "East Timor"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q668",
+        "countryLabel": "India"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q686",
+        "countryLabel": "Vanuatu"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q734",
+        "countryLabel": "Guyana"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q695",
+        "countryLabel": "Palau"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q739",
+        "countryLabel": "Colombia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q730",
+        "countryLabel": "Suriname"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q733",
+        "countryLabel": "Paraguay"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q678",
+        "countryLabel": "Tonga"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q691",
+        "countryLabel": "Papua New Guinea"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q683",
+        "countryLabel": "Samoa"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q711",
+        "countryLabel": "Mongolia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q710",
+        "countryLabel": "Kiribati"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q685",
+        "countryLabel": "Solomon Islands"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q717",
+        "countryLabel": "Venezuela"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q712",
+        "countryLabel": "Fiji"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q702",
+        "countryLabel": "Federated States of Micronesia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q736",
+        "countryLabel": "Ecuador"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q750",
+        "countryLabel": "Bolivia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q774",
+        "countryLabel": "Guatemala"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q783",
+        "countryLabel": "Honduras"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q766",
+        "countryLabel": "Jamaica"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q760",
+        "countryLabel": "Saint Lucia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q769",
+        "countryLabel": "Grenada"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q778",
+        "countryLabel": "Bahamas"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q757",
+        "countryLabel": "Saint Vincent and the Grenadines"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q754",
+        "countryLabel": "Trinidad and Tobago"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q763",
+        "countryLabel": "Saint Kitts and Nevis"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q781",
+        "countryLabel": "Antigua and Barbuda"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q784",
+        "countryLabel": "Dominica"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q794",
+        "countryLabel": "Iran"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q785",
+        "countryLabel": "Jersey"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q786",
+        "countryLabel": "Dominican Republic"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q790",
+        "countryLabel": "Haiti"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q800",
+        "countryLabel": "Costa Rica"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q792",
+        "countryLabel": "El Salvador"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q796",
+        "countryLabel": "Iraq"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q805",
+        "countryLabel": "Yemen"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q804",
+        "countryLabel": "Panama"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q801",
+        "countryLabel": "Israel"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q810",
+        "countryLabel": "Jordan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q811",
+        "countryLabel": "Nicaragua"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q813",
+        "countryLabel": "Kyrgyzstan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q819",
+        "countryLabel": "Laos"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q826",
+        "countryLabel": "Maldives"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q817",
+        "countryLabel": "Kuwait"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q822",
+        "countryLabel": "Lebanon"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q833",
+        "countryLabel": "Malaysia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q837",
+        "countryLabel": "Nepal"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q836",
+        "countryLabel": "Myanmar"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q858",
+        "countryLabel": "Syria"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q843",
+        "countryLabel": "Pakistan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q854",
+        "countryLabel": "Sri Lanka"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q846",
+        "countryLabel": "Qatar"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q842",
+        "countryLabel": "Oman"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q851",
+        "countryLabel": "Saudi Arabia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q865",
+        "countryLabel": "Taiwan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q874",
+        "countryLabel": "Turkmenistan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q863",
+        "countryLabel": "Tajikistan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q869",
+        "countryLabel": "Thailand"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q878",
+        "countryLabel": "United Arab Emirates"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q884",
+        "countryLabel": "South Korea"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q881",
+        "countryLabel": "Vietnam"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q889",
+        "countryLabel": "Afghanistan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q902",
+        "countryLabel": "Bangladesh"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q912",
+        "countryLabel": "Mali"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q928",
+        "countryLabel": "Philippines"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q916",
+        "countryLabel": "Angola"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q924",
+        "countryLabel": "Tanzania"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q921",
+        "countryLabel": "Brunei"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q917",
+        "countryLabel": "Bhutan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q965",
+        "countryLabel": "Burkina Faso"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q954",
+        "countryLabel": "Zimbabwe"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q929",
+        "countryLabel": "Central African Republic"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q970",
+        "countryLabel": "Comoros"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q971",
+        "countryLabel": "Republic of the Congo"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q948",
+        "countryLabel": "Tunisia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q977",
+        "countryLabel": "Djibouti"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q953",
+        "countryLabel": "Zambia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q974",
+        "countryLabel": "Democratic Republic of the Congo"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q945",
+        "countryLabel": "Togo"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q963",
+        "countryLabel": "Botswana"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q958",
+        "countryLabel": "South Sudan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q967",
+        "countryLabel": "Burundi"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1009",
+        "countryLabel": "Cameroon"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q986",
+        "countryLabel": "Eritrea"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q983",
+        "countryLabel": "Equatorial Guinea"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1000",
+        "countryLabel": "Gabon"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1013",
+        "countryLabel": "Lesotho"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1011",
+        "countryLabel": "Cape Verde"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1006",
+        "countryLabel": "Guinea"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1008",
+        "countryLabel": "Ivory Coast"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1014",
+        "countryLabel": "Liberia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1007",
+        "countryLabel": "Guinea-Bissau"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1019",
+        "countryLabel": "Madagascar"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1005",
+        "countryLabel": "The Gambia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1027",
+        "countryLabel": "Mauritius"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1030",
+        "countryLabel": "Namibia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1025",
+        "countryLabel": "Mauritania"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1020",
+        "countryLabel": "Malawi"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1016",
+        "countryLabel": "Libya"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1028",
+        "countryLabel": "Morocco"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1029",
+        "countryLabel": "Mozambique"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1042",
+        "countryLabel": "Seychelles"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1033",
+        "countryLabel": "Nigeria"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1041",
+        "countryLabel": "Senegal"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1032",
+        "countryLabel": "Niger"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1036",
+        "countryLabel": "Uganda"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1037",
+        "countryLabel": "Rwanda"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1039",
+        "countryLabel": "São Tomé and Príncipe"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1049",
+        "countryLabel": "Sudan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1183",
+        "countryLabel": "Puerto Rico"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q23635",
+        "countryLabel": "Bermuda"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q23681",
+        "countryLabel": "Turkish Republic of Northern Cyprus"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q25305",
+        "countryLabel": "British Virgin Islands"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q16",
+        "countryLabel": "Canada"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1044",
+        "countryLabel": "Sierra Leone"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q21203",
+        "countryLabel": "Aruba"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q9676",
+        "countryLabel": "Isle of Man"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1246",
+        "countryLabel": "Kosovo"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1437",
+        "countryLabel": "Rajasthan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q4628",
+        "countryLabel": "Faroe Islands"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1045",
+        "countryLabel": "Somalia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q1050",
+        "countryLabel": "Swaziland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q25279",
+        "countryLabel": "Curaçao"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q6250",
+        "countryLabel": "Western Sahara"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q17",
+        "countryLabel": "Japan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q27",
+        "countryLabel": "Ireland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q26",
+        "countryLabel": "Northern Ireland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q20",
+        "countryLabel": "Norway"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q30",
+        "countryLabel": "United States of America"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q31",
+        "countryLabel": "Belgium"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q28",
+        "countryLabel": "Hungary"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q29",
+        "countryLabel": "Spain"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34",
+        "countryLabel": "Sweden"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q32",
+        "countryLabel": "Luxembourg"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q35",
+        "countryLabel": "Denmark"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q33",
+        "countryLabel": "Finland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q38",
+        "countryLabel": "Italy"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39",
+        "countryLabel": "Switzerland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q36",
+        "countryLabel": "Poland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q37",
+        "countryLabel": "Lithuania"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q43",
+        "countryLabel": "Turkey"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q40",
+        "countryLabel": "Austria"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q41",
+        "countryLabel": "Greece"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q45",
+        "countryLabel": "Portugal"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q55",
+        "countryLabel": "Netherlands"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q79",
+        "countryLabel": "Egypt"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q96",
+        "countryLabel": "Mexico"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q77",
+        "countryLabel": "Uruguay"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q114",
+        "countryLabel": "Kenya"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q115",
+        "countryLabel": "Ethiopia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q142",
+        "countryLabel": "France"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q117",
+        "countryLabel": "Ghana"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q145",
+        "countryLabel": "United Kingdom"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q148",
+        "countryLabel": "People's Republic of China"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q155",
+        "countryLabel": "Brazil"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q159",
+        "countryLabel": "Russia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q183",
+        "countryLabel": "Germany"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q184",
+        "countryLabel": "Belarus"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q191",
+        "countryLabel": "Estonia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q212",
+        "countryLabel": "Ukraine"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q214",
+        "countryLabel": "Slovakia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q215",
+        "countryLabel": "Slovenia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q189",
+        "countryLabel": "Iceland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q211",
+        "countryLabel": "Latvia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q213",
+        "countryLabel": "Czech Republic"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q218",
+        "countryLabel": "Romania"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q219",
+        "countryLabel": "Bulgaria"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q217",
+        "countryLabel": "Moldova"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q222",
+        "countryLabel": "Albania"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q221",
+        "countryLabel": "Macedonia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q227",
+        "countryLabel": "Azerbaijan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q223",
+        "countryLabel": "Greenland"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q224",
+        "countryLabel": "Croatia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q230",
+        "countryLabel": "Georgia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q225",
+        "countryLabel": "Bosnia and Herzegovina"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q228",
+        "countryLabel": "Andorra"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q232",
+        "countryLabel": "Kazakhstan"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q235",
+        "countryLabel": "Monaco"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q229",
+        "countryLabel": "Cyprus"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q244",
+        "countryLabel": "Barbados"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q233",
+        "countryLabel": "Malta"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q241",
+        "countryLabel": "Cuba"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q238",
+        "countryLabel": "San Marino"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q236",
+        "countryLabel": "Montenegro"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q252",
+        "countryLabel": "Indonesia"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q242",
+        "countryLabel": "Belize"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q39760",
+        "countryLabel": "Gaza Strip"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q42620",
+        "countryLabel": "Palestinian National Authority"
+    },
+    {
+        "country": "http://www.wikidata.org/entity/Q34754",
+        "countryLabel": "Somaliland"
+    }
+]
